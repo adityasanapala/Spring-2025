@@ -22,7 +22,7 @@ This is a collection of all the resources for the courses that me and my friends
   - **Day:** 
   - **Time:** 
  
-**Instructor:** [Prof. ]()
+**Instructor:** [Prof. Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb/)
 
 **Website:** []()
 
@@ -40,7 +40,7 @@ This is a collection of all the resources for the courses that me and my friends
   - **Day:** 
   - **Time:** 
  
-**Instructor:** [Prof. ]()
+**Instructor:** [Prof. Rohit Gurjar](https://www.cse.iitb.ac.in/~rgurjar/)
 
 **Website:** []()
 
@@ -58,7 +58,7 @@ This is a collection of all the resources for the courses that me and my friends
   - **Day:** 
   - **Time:** 
  
-**Instructor:** [Prof. ]()
+**Instructor:** [Prof. Mythili Vutukuru](https://www.cse.iitb.ac.in/~mythili/)
 
 **Website:** []()
 

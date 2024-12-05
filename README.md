@@ -6,6 +6,8 @@ This is a collection of all the resources for the courses that me and my friends
 
 ## Timetable
 
+DE 250 -tuesday 2-4:55 for slot 2a, friday  2-4:55  for  slot 2b
+
 ## Course Logistics
 
 ### CS217+240 - Artificial Intelligence and Machine Learning + Lab
@@ -68,13 +70,13 @@ This is a collection of all the resources for the courses that me and my friends
 
 **Schedule:**
 
-- **Slot ** (CS217)
-  - **Days:** 
-  - **Time:** 
+- **Slot L2** (Section 2A)
+  - **Day: Tuesday** 
+  - **Time: 2:00 PM - 4:55 PM** 
 
-- **Slot ** (CS240)
-  - **Day:** 
-  - **Time:** 
+- **Slot L4** (Section 2B)
+  - **Day: Friday** 
+  - **Time: 2:00 PM - 4:55 PM** 
  
 **Instructor:** [Prof. ]()
 
@@ -86,13 +88,13 @@ This is a collection of all the resources for the courses that me and my friends
 
 **Schedule:**
 
-- **Slot ** (CS217)
-  - **Days:** 
-  - **Time:** 
+- **Slot L2** (Section 2A)
+  - **Day: Tuesday** 
+  - **Time: 2:00 PM - 4:55 PM** 
 
-- **Slot ** (CS240)
-  - **Day:** 
-  - **Time:** 
+- **Slot L4** (Section 2B)
+  - **Day: Friday** 
+  - **Time: 2:00 PM - 4:55 PM** 
  
 **Instructor:** [Prof. ]()
 

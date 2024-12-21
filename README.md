@@ -9,13 +9,13 @@ This is a collection of all the resources for the courses that me and my friends
 > [!NOTE]  
 > Fill in your respective minor/elective in the minor slot.
 
-| Day/Time  | 8:30 - 9:25 | 9:30 - 10:25  | 10:35 - 10:55 | 11:05 - 11:30  | 11:35 - 12:30 | 2:00 - 3:25  | 3:30 - 4:55 |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Monday |   | CS218 | CS219 | CS219 | CS217 | CS236 | CS236 |
-| Tuesday | CS217 |   | CS218 | CS218 | CS219 |   |   |
-| Wednesday |   | Minor Slot | Minor Slot |   |   |   |   |
-| Thursday | CS219 | CS217 |   |   | CS218 | CS240 | CS240 |
-| Friday |   | Minor Slot | Minor Slot |   |   |   |   |
+| Day/Time  | 8:30 - 9:25 | 9:30 - 10:25  | 10:35 - 10:55 | 11:05 - 11:30  | 11:35 - 12:30 | 2:00 - 3:25  | 3:30 - 4:55 | 5:30 - 6:55 | 7:30 - 8:25 |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Monday |   | CS218 | CS219 | CS219 | CS217 | CS236 | CS236 |   |   |
+| Tuesday | CS217 |   | CS218 | CS218 | CS219 |   |   |   |   |
+| Wednesday |   | Minor Slot | Minor Slot |   |   |   |   |   |   |
+| Thursday | CS219 | CS217 |   |   | CS218 | CS240 | CS240 |   |   |
+| Friday |   | Minor Slot | Minor Slot |   |   |   |   |   |   |
 
 DE 250 -tuesday 2-4:55 for slot 2a, friday  2-4:55  for  slot 2b
 

@@ -9,7 +9,7 @@ This is a collection of all the resources for the courses that me and my friends
 > [!NOTE]  
 > Fill in your respective minor/elective in the minor slot.
 
-| Day/Time  | 8:30 - 9:25 | 9:30 - 10:25  | 10:30 - 10:55 | 11:05 - 11:30  | 11:35 - 12:30 | 2:00 - 3:25  | 3:30 - 4:55 | 5:30 - 6:55 | 7:00 - 8:25 |
+| Day/Time  | 8:30 - 9:25 | 9:30 - 10:25  | 10:35 - 10:55 | 11:05 - 11:30  | 11:35 - 12:30 | 2:00 - 3:25  | 3:30 - 4:55 | 5:30 - 6:55 | 7:00 - 8:25 |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Monday | CS217 | CS218 | CS219 | CS219 |   | CS236 | CS236 |   |   |
 | Tuesday |   | CS217 | CS218 | CS218 | CS219 |   |   |   |   |
@@ -65,11 +65,11 @@ DE 250 -tuesday 2-4:55 for slot 2a, friday  2-4:55  for  slot 2b
 
 - **Slot 3** (CS219)
   - **Days:** Monday, Tuesday, Thursday
-  - **Time:** 
+  - **Time:** 10:30 AM - 11:25 AM, 11:30 AM - 12:25 AM, 8:30 AM - 9:25 AM
 
-- **Slot ** (CS236)
-  - **Day:** 
-  - **Time:** 
+- **Slot L1** (CS236)
+  - **Day:** Monday
+  - **Time:** 2:00 PM - 4:55 PM
  
 **Instructor:** [Prof. Mythili Vutukuru](https://www.cse.iitb.ac.in/~mythili/)
 

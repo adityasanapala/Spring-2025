@@ -23,7 +23,7 @@ DE 250 -tuesday 2-4:55 for slot 2a, friday  2-4:55  for  slot 2b
 
 ### CS217+240 - Artificial Intelligence and Machine Learning + Lab
 
-**Venue:** 
+**Venue:** LH101
 
 **Schedule:**
 
@@ -41,7 +41,7 @@ DE 250 -tuesday 2-4:55 for slot 2a, friday  2-4:55  for  slot 2b
 
 ### CS218 - Design and Analysis of Algorithms
 
-**Venue:** 
+**Venue:** LH102
 
 **Schedule:**
 
@@ -59,7 +59,7 @@ DE 250 -tuesday 2-4:55 for slot 2a, friday  2-4:55  for  slot 2b
 
 ### CS219+236 - Operating Systems + Lab
 
-**Venue:** 
+**Venue:** LA002
 
 **Schedule:**
 
@@ -77,25 +77,25 @@ DE 250 -tuesday 2-4:55 for slot 2a, friday  2-4:55  for  slot 2b
 
 ### DE250 - Design Thinking for Innovation
 
-**Venue:** 
+**Venue:** The Studio is located on the ground floor of the Rahul Bajaj Technology Innovation Centre
 
 **Schedule:**
 
 - **Slot L2** (Section 2A)
-  - **Day: Tuesday** 
-  - **Time: 2:00 PM - 4:55 PM** 
+  - **Day:** Tuesday
+  - **Time:** 2:00 PM - 4:55 PM
 
 - **Slot L4** (Section 2B)
-  - **Day: Friday** 
-  - **Time: 2:00 PM - 4:55 PM** 
+  - **Day:** Friday
+  - **Time:** 2:00 PM - 4:55 PM
  
-**Instructor:** [Prof. ]()
+**Instructor:** [Prof. Mandar S. Rane](https://mrane.com/)
 
 **Website:** []()
 
 ### ES250 - Environmental Studies: Science and Engineering
 
-**Venue:** 
+**Venue:** Online (on Moodle)
 
 **Schedule:**
 
@@ -113,7 +113,7 @@ DE 250 -tuesday 2-4:55 for slot 2a, friday  2-4:55  for  slot 2b
 
 ### HS250 - Environmental Studies
 
-**Venue:** 
+**Venue:** Online (on Moodle)
 
 **Schedule:**
 

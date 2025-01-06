@@ -2,7 +2,13 @@
 
 ## Grading
 
+- **Quizzes:** 20% (2 quizzes)
+- **Midsem:** 30%
+- **Endsem:** 50%
+
 ## Exam Schedule
+
+
 
 ## Course Website (if any)
 

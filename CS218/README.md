@@ -2,9 +2,10 @@
 
 ## Grading
 
-- **Programming Assignments:** (2 assignments)
-- 
--
+- **Programming Assignments:** 10% (2 assignments)
+- **Quizzes:** 20% (2 quizzes)
+- **Midsem:** 25%
+- **Endsem:** 45%
 
 ## Exam Schedule
 

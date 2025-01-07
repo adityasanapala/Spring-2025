@@ -9,15 +9,16 @@ This is a collection of all the resources for the courses that me and my friends
 > [!NOTE]  
 > Fill in your respective minor/elective in the minor slot.
 
+> [!NOTE]  
+> DE250 is in slot L2 for batch S3 and slot L4 for batch S7.
+
 | Day/Time  | 8:30 - 9:25 | 9:30 - 10:25  | 10:35 - 10:55 | 11:05 - 11:30  | 11:35 - 12:30 | 2:00 - 3:25  | 3:30 - 4:55 | 5:30 - 6:55 | 7:00 - 8:25 |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Monday | CS217 | CS218 | CS219 | CS219 |   | CS236 | CS236 |   |   |
-| Tuesday |   | CS217 | CS218 | CS218 | CS219 |   |   |   |   |
+| Tuesday |   | CS217 | CS218 | CS218 | CS219 | DE250 | DE250 |   |   |
 | Wednesday |   | Minor Slot | Minor Slot |   |   |   |   |   |   |
 | Thursday | CS219 |   | CS217 | CS217 | CS218 | CS240 | CS240 |   |   |
 | Friday |   | Minor Slot | Minor Slot |   |   |   |   |   |   |
-
-DE 250 -tuesday 2-4:55 for slot 2a, friday  2-4:55  for  slot 2b
 
 ## Course Logistics
 
@@ -81,11 +82,11 @@ DE 250 -tuesday 2-4:55 for slot 2a, friday  2-4:55  for  slot 2b
 
 **Schedule:**
 
-- **Slot L2** (Section 2A)
+- **Slot L2** (Section S3)
   - **Day:** Tuesday
   - **Time:** 2:00 PM - 4:55 PM
 
-- **Slot L4** (Section 2B)
+- **Slot L4** (Section S7)
   - **Day:** Friday
   - **Time:** 2:00 PM - 4:55 PM
  

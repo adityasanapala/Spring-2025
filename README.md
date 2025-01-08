@@ -38,7 +38,7 @@ This is a collection of all the resources for the courses that me and my friends
  
 **Instructor:** [Prof. Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb/)
 
-**Website:** []()
+**Website:** [CS217 - Artificial Intelligence/Machine Learning (CS240 Lab)](https://www.cse.iitb.ac.in/~cs217/2025/)
 
 ### CS218 - Design and Analysis of Algorithms
 
@@ -48,15 +48,11 @@ This is a collection of all the resources for the courses that me and my friends
 
 - **Slot 2** (Lectures)
   - **Days:** Monday, Tuesday, Thursday
-  - **Time:** 
-
-- **Slot ** (CS240)
-  - **Day:** 
-  - **Time:** 
+  - **Time:** 9:30 AM - 10:25 AM, 10:35 AM - 11:30 AM, 11:35 AM - 12:30 PM
  
 **Instructor:** [Prof. Rohit Gurjar](https://www.cse.iitb.ac.in/~rgurjar/)
 
-**Website:** []()
+**Website:** [CS218 - Design and Analysis of Algorithms](https://www.cse.iitb.ac.in/~rgurjar/CS218-2025/)
 
 ### CS219+236 - Operating Systems + Lab
 
@@ -66,7 +62,7 @@ This is a collection of all the resources for the courses that me and my friends
 
 - **Slot 3** (CS219)
   - **Days:** Monday, Tuesday, Thursday
-  - **Time:** 10:30 AM - 11:25 AM, 11:30 AM - 12:25 AM, 8:30 AM - 9:25 AM
+  - **Time:** 10:35 AM - 11:30 AM, 11:35 AM - 12:30 AM, 8:30 AM - 9:25 AM
 
 - **Slot L1** (CS236)
   - **Day:** Monday
@@ -74,11 +70,11 @@ This is a collection of all the resources for the courses that me and my friends
  
 **Instructor:** [Prof. Mythili Vutukuru](https://www.cse.iitb.ac.in/~mythili/)
 
-**Website:** []()
+**Website:** [Lectures on Operating Systems](https://www.cse.iitb.ac.in/~mythili/os/)
 
 ### DE250 - Design Thinking for Innovation
 
-**Venue:** The Studio is located on the ground floor of the Rahul Bajaj Technology Innovation Centre
+**Venue:** Design Studio - Exhibition Hall 2, Rahul Bajaj Technology Innovation Centre, IIT Bombay
 
 **Schedule:**
 

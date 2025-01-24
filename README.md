@@ -4,6 +4,14 @@ This is a collection of all the resources for the courses that me and my friends
 
 ## Upcoming Events
 
+- **CS236 Quiz 1:** Monday, 27 January 2025
+- **CS218 Quiz 1:** Tuesday, 28 January 2025
+- **DE250 Quiz 1:** Tuesday, 28 January 2025
+- **CS219 Quiz 1:** Thursday, 30 January 2025
+- **CS217 Quiz 1:** Thursday, 30 January 2025
+- **CS773 Quiz 1:** Monday, 3 February 2025
+- **CS6002 Quiz 1:** Friday, 7 February 2025
+
 ## Timetable
 
 > [!NOTE]  

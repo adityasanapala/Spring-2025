@@ -2,16 +2,16 @@
 
 ## Grading
 
-- **In-Lab Grading:** 70% (each lab has an autograder and a viva-voce component with 40% for the autograder and 60% for the viva-voce)
-- **Midsem:** 10%
-- **Project:** 20%
+- **In-Lab Grading:** 50% (each lab has an autograder and a viva-voce component with 40% for the autograder and 60% for the viva-voce)
+- **Midsem:** 20%
+- **Project:** 30%
 
 ## Deadline Schedule
 
 - Every lab has to be submitted by 5:30 PM on the same day for full marks. Any submission later than that will result in a penalty of 50% on the autograder part.
 - **Midsem:** Midsem week, date yet to be announced.
-- **Project announcement date:**
-- **Project submission deadline:**
+- **Project announcement date:** Date yet to be announced.
+- **Project submission deadline:** Date yet to be announced.
 
 ## Course Website (if any)
 

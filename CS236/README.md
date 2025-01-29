@@ -8,7 +8,7 @@
 
 ## Exam Schedule
 
-- **Quiz 1:** Monday, January 27 2025
+- **Quiz 1:** Monday, 27 January 2025
 - **Quiz 2:** Midsem week, date yet to be announced.
 - **Quiz 3:** Monday, 24 March 2025
 - **Quiz 4:** Endsem week, date yet to be announced.

@@ -4,13 +4,8 @@ This is a collection of all the resources for the courses that me and my friends
 
 ## Upcoming Events
 
-- **CS236 Quiz 1:** Monday, 27 January 2025
-- **DE250 Quiz 1:** Tuesday, 28 January 2025
-- **CS218 Quiz 1:** Wednesday, 29 January 2025
-- **CS219 Quiz 1:** Thursday, 30 January 2025
-- **CS217 Quiz 1:** Thursday, 30 January 2025
-- **CS6002 Quiz 1:** Friday, 31 January 2025
 - **CS773 Quiz 1:** Monday, 3 February 2025
+- **
 
 ## Timetable
 
@@ -94,9 +89,9 @@ This is a collection of all the resources for the courses that me and my friends
   - **Day:** Friday
   - **Time:** 2:00 PM - 4:55 PM
  
-**Instructor:** [Prof. Mandar S. Rane](https://mrane.com/)
+**Instructor:** [Prof. Nishant Sharma](https://www.idc.iitb.ac.in/people/faculty/sharma-nishant), [Prof. Mandar S. Rane](https://mrane.com/)
 
-**Website:** []()
+**Website:** [Design Thinking for Innovation - YouTube](https://www.youtube.com/@DesignThinkingforInnovation)
 
 ### ES250 - Environmental Studies: Science and Engineering
 

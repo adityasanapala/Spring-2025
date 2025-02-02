@@ -1,5 +1,8 @@
 # CS773 - Computer Architecture for Performance and Security
 
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
+
 ## Grading
 
 ## Exam Schedule

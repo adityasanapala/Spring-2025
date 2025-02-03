@@ -5,9 +5,19 @@
 
 ## Grading
 
+- **Quizzes:** 10% (2 mini-quizzes)
+- **Midsem:** 15%
+- **Endsem:** 15%
+- **Programming Assignments:** 30% (2 solo/group assignments)
+- **Projects:** 25%
+- **Video on Course:** 5%
+
 ## Exam Schedule
 
 - **Quiz 1:** Monday, 3 February 2025
+- **Midsem:** Midsem Week - Sunday, 2 March 2025
+- **Quiz 2:**
+- **Endsem:** Endsem Week - Date yet to be announced.
 
 ## Course Website (if any)
 

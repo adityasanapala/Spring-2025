@@ -4,8 +4,11 @@ This is a collection of all the resources for the courses that me and my friends
 
 ## Upcoming Events
 
-- **CS773 Quiz 1:** Monday, 3 February 2025
-- **
+- **CS217 Midsem:** Saturday, 22 February 2025
+- **CS433 Midsem:** Saturday, 22 February 2025
+- **CS218 Midsem:** Sunday, 23 February 2025
+- **CS219 Midsem:** Monday, 24 February 2025
+- 
 
 ## Timetable
 

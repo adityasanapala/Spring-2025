@@ -8,6 +8,7 @@ This is a collection of all the resources for the courses that me and my friends
 - **CS433 Midsem:** Saturday, 22 February 2025
 - **CS218 Midsem:** Sunday, 23 February 2025
 - **CS219 Midsem:** Monday, 24 February 2025
+- **CS236 Midsem:** Thursday, 27 February 2025
 - 
 
 ## Timetable

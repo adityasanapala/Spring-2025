@@ -10,7 +10,7 @@ This is a collection of all the resources for the courses that me and my friends
 - **CS219 Midsem:** Monday, 24 February 2025
 - **CS236 Midsem:** Thursday, 27 February 2025
 - **CS240 Midsem:**
-- **CS6002 Midsem:**
+- **CS6002 Midsem:** 
 - **CS773 Midsem:**
 
 ## Timetable
@@ -98,7 +98,7 @@ This is a collection of all the resources for the courses that me and my friends
   - **Day:** Friday
   - **Time:** 2:00 PM - 4:55 PM
  
-**Instructor:** [Prof. Nishant Sharma](https://www.idc.iitb.ac.in/people/faculty/sharma-nishant), [Prof. Mandar S. Rane](https://mrane.com/)
+**Instructor:** [Prof. Nishant Sharma](https://www.idc.iitb.ac.in/people/faculty/sharma-nishant), [Prof. Mandar S. Rane](https://mrane.com/), [Prof. Purba Joshi](https://www.idc.iitb.ac.in/people/faculty/joshi-purba)
 
 **Website:** [Design Thinking for Innovation - YouTube](https://www.youtube.com/@DesignThinkingforInnovation)
 

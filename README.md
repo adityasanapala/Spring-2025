@@ -9,7 +9,9 @@ This is a collection of all the resources for the courses that me and my friends
 - **CS218 Midsem:** Sunday, 23 February 2025
 - **CS219 Midsem:** Monday, 24 February 2025
 - **CS236 Midsem:** Thursday, 27 February 2025
-- 
+- **CS240 Midsem:**
+- **CS6002 Midsem:**
+- **CS773 Midsem:**
 
 ## Timetable
 
@@ -47,6 +49,7 @@ This is a collection of all the resources for the courses that me and my friends
 
 **Website:** [CS217 - Artificial Intelligence/Machine Learning (CS240 Lab)](https://www.cse.iitb.ac.in/~cs217/2025/)
 
+
 ### CS218 - Design and Analysis of Algorithms
 
 **Venue:** LH102
@@ -60,6 +63,7 @@ This is a collection of all the resources for the courses that me and my friends
 **Instructor:** [Prof. Rohit Gurjar](https://www.cse.iitb.ac.in/~rgurjar/)
 
 **Website:** [CS218 - Design and Analysis of Algorithms](https://www.cse.iitb.ac.in/~rgurjar/CS218-2025/)
+
 
 ### CS219+236 - Operating Systems + Lab
 
@@ -79,6 +83,7 @@ This is a collection of all the resources for the courses that me and my friends
 
 **Website:** [Lectures on Operating Systems](https://www.cse.iitb.ac.in/~mythili/os/)
 
+
 ### DE250 - Design Thinking for Innovation
 
 **Venue:** Design Studio - Exhibition Hall 2, Rahul Bajaj Technology Innovation Centre, IIT Bombay
@@ -97,41 +102,19 @@ This is a collection of all the resources for the courses that me and my friends
 
 **Website:** [Design Thinking for Innovation - YouTube](https://www.youtube.com/@DesignThinkingforInnovation)
 
+
 ### ES250 - Environmental Studies: Science and Engineering
 
-**Venue:** Online (on Moodle)
+- **Venue:** Online (on Moodle)
+- Half-Semester course. (First half)
+- **Instructor:** [Prof. Srinidhi Balasubramanian](https://www.esed.iitb.ac.in/faculty/srinidhi-balasubramanian), [Prof. Swatantra Pratap Singh](https://www.esed.iitb.ac.in/faculty/swatantra-pratap-singh)
 
-**Schedule:**
-
-- **Slot L2** (Section 2A)
-  - **Day: Tuesday** 
-  - **Time: 2:00 PM - 4:55 PM** 
-
-- **Slot L4** (Section 2B)
-  - **Day: Friday** 
-  - **Time: 2:00 PM - 4:55 PM** 
- 
-**Instructor:** [Prof. ]()
-
-**Website:** []()
 
 ### HS250 - Environmental Studies
 
-**Venue:** Online (on Moodle)
-
-**Schedule:**
-
-- **Slot ** (CS217)
-  - **Days:** 
-  - **Time:** 
-
-- **Slot ** (CS240)
-  - **Day:** 
-  - **Time:** 
- 
-**Instructor:** [Prof. ]()
-
-**Website:** []()
+- **Venue:** Online (on Moodle)
+- Half-Semester Course. (Second half)
+- **Instructor:** [Prof. Anush Kapadia](https://www.cps.iitb.ac.in/faculty/anush-kapadia/), [Prof. Ratikanta Panda](https://www.hss.iitb.ac.in/people/faculty/ratikanta-panda)
 
 ## Backup Link for the Content
 

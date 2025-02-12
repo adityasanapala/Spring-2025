@@ -9,7 +9,7 @@
 ## Exam Schedule
 
 - Every lab has to be submitted by 5:30 PM on the same day for full marks. Any submission later than that will result in a penalty of 50% on the autograder part.
-- **Midsem:** Midsem week, date yet to be announced.
+- **Midsem:** Midsem week - .
 - **Project announcement date:** Date yet to be announced.
 - **Project submission deadline:** Date yet to be announced.
 

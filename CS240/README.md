@@ -9,7 +9,7 @@
 ## Exam Schedule
 
 - Every lab has to be submitted by 5:30 PM on the same day for full marks. Any submission later than that will result in a penalty of 50% on the autograder part.
-- **Midsem:** Midsem week - .
+- **Midsem:** Midsem week - Thursday, 20 February 2025
 - **Project announcement date:** Date yet to be announced.
 - **Project submission deadline:** Date yet to be announced.
 

@@ -10,7 +10,7 @@
 
 ## Exam Schedule
 
--
+- **Midsem:** Midsem week - Saturday, 22 February 2025
 
 ## Course Website (if any)
 

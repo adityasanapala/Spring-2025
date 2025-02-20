@@ -15,6 +15,7 @@
 ## Exam Schedule
 
 - **Quiz 1:** Monday, 3 February 2025
+- **Assignment 1 Deadline:** Saturday, 15 February 2025
 - **Midsem:** Midsem Week - Sunday, 2 March 2025
 - **Quiz 2:**
 - **Endsem:** Endsem Week - Date yet to be announced.

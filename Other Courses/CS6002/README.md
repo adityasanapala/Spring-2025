@@ -13,11 +13,13 @@
 ## Exam Schedule
 
 - **Quiz 1:** Friday, 31 January 2025
-- **Midsem:** Midsem week, date yet to be announced.
-- **Quiz 2:** 
-- **Group Project announcement:**
-- **Presentation:**
-- **Final Report Submission:**
+- **Group Project announcement:** Monday, 3 February 2025
+- **Project Synopsis submission:** Saturday, 15 February 2025
+- **Midsem:** Midsem week - Saturday, 1 March 2025.
+- **Quiz 2:** Friday, 21 March 2025
+- **Project Meetings start:** Wednesday, 19 March 2025
+- **Presentation:** Week of 9-16 April 2025
+- **Final Report Submission:** Saturday, 19 April 2025
 
 ## Course Website (if any)
 

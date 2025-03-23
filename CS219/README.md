@@ -12,7 +12,7 @@
 - **Quiz 1:** Thursday, 30 January 2025
 - **Midsem:** Midsem week - Monday, 24 February 2025
 - **Quiz 2:** Thursday, 27 March 2025
-- **Endsem:** Endsem week, date yet to be announced.
+- **Endsem:** Endsem week - Friday, 25 April 2025
 
 ## Course Website (if any)
 

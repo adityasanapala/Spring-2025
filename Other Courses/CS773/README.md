@@ -19,7 +19,7 @@
 - **Assignment 1 Deadline:** Saturday, 15 February 2025
 - **Assignment 1 Viva:** 
 - **Midsem:** Midsem Week - Sunday, 2 March 2025
-- **Quiz 2:**
+- **Quiz 2:** Thursday, 3 April 2025
 - **Endsem:** Endsem Week - Date yet to be announced.
 
 ## Course Website (if any)

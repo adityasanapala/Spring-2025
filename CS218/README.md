@@ -11,7 +11,7 @@
 
 - **Quiz 1:** Wednesday, 29 January 2025
 - **Programming Assignment 1 Announced:** Thursday, 13 February 2025
-- **Midsem:** Midsem week, date yet to be announced.
+- **Midsem:** Midsem week - Sunday, 23 February 2025
 - **Programming Assignment 1 Deadline:** Sunday, 9 March 2025
 - **Quiz 2:** Wednesday, 26 March 2025
 - **Programming Assignment 2 Announced:** Wednesday, 19 March 2025

@@ -1,7 +1,7 @@
 # CS773 - Computer Architecture for Performance and Security
 
 > [!NOTE]  
-> Highlights information that users should take into account, even when skimming.
+> This course has a prerequisite (CS230), without which you won't be allowed to take up this course.
 
 ## Grading
 
@@ -20,6 +20,8 @@
 - **Assignment 1 Viva:** 
 - **Midsem:** Midsem Week - Sunday, 2 March 2025
 - **Quiz 2:** Thursday, 3 April 2025
+- **Project Statement Submission:**
+- **Project Statement Presentation:** Monday, 24 March 2025
 - **Endsem:** Endsem Week - Date yet to be announced.
 
 ## Course Website (if any)
